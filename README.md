@@ -17,3 +17,11 @@ A Quiz Game
         #     return True
         # else:
         #     return False
+
+    🟢 How to import information from https://opentdb.com/ and change the code into python.
+    🟢 Now I know about the constructor in a class
+
+        # def __init__(self, something_1, something_2):
+
+    🟢 I understood the funtionability of all methods in quiz_brain.py 
+    with the help of https://thonny.org/ 😅
